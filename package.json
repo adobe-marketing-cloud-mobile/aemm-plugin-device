@@ -6,7 +6,7 @@
     "id": "aemm-plugin-device",
     "platforms": [
       "android",
-      "ios",
+      "ios"
     ]
   },
   "repository": {
