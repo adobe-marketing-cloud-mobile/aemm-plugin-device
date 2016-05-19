@@ -1,0 +1,27 @@
+{
+  "name": "aemm-plugin-device",
+  "version": "1.1.3",
+  "description": "AEMM Device Plugin",
+  "cordova": {
+    "id": "aemm-plugin-device",
+    "platforms": [
+      "android",
+      "ios",
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe-marketing-cloud-mobile/aemm-plugin-device.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "cordova-android",
+    "cordova-ios",
+    "aem",
+    "aemm",
+    "aemmobile"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
